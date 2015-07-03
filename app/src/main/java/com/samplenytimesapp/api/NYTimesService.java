@@ -18,7 +18,7 @@ import retrofit.converter.GsonConverter;
 public class NYTimesService {
 
     private static final String API_URL = "http://api.nytimes.com/svc";
-    private static final String API_KEY = "52e188208902b02b7eba5f6bc1a17a65:10:72428451";
+    private static final String API_KEY = "******************************************";
 
     private static NYTimesService mNYTimesService;
     private static RestAdapter mAsyncRestAdapter;
